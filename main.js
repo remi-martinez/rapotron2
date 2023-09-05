@@ -3,7 +3,9 @@ import { setup } from './rhymes.js'
 
 document.querySelector('#app').innerHTML = `
 <div class="container">
+
     <div class="center">
+        <img class="rapotron-img" src="img/rapotron.png" alt="Rapotron">
         <div id='punchline'>
             <blockquote>Clique sur générer !</blockquote>
         </div>
