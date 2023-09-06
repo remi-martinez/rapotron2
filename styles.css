@@ -1,7 +1,16 @@
+:root {
+    --bg: #252525;
+    --white: #E9E9E9;
+}
+
 body {
     font-family: 'Lato', sans-serif;
-    background-color: rgb(37, 37, 37);
-    color: rgb(233, 233, 233);
+    background-color: var(--bg);
+    color: var(--white);
+}
+
+a {
+    color: var(--white);
 }
 
 .container {
