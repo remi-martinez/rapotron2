@@ -54,7 +54,7 @@ const refreshPunchline = (rapperLeft = "Orelsan", rapperRight = "Damso") => {
             const left = allLefts[Math.floor(Math.random() * allLefts.length)];
             const right = allRights[Math.floor(Math.random() * allRights.length)];
             
-            punchlineElement.textContent = `${left}, ${right}`;
+            punchlineElement.textContent = `"${left}, ${right}"`;
             authorsElement.textContent = `${rapperLeft} & ${rapperRight}`.toUpperCase();
             
         })
