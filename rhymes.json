@@ -52,5 +52,23 @@
       "ou" : [ "depuis on attend que le monde vienne à nous", "ils sont cools ouhouhouh"],
       "ai" : ["y a marqué \"on t'la met profond\" entre les lignes des ma fiche de paie"]
     }
+  },
+  "sch": {
+    "left": {
+      "a": ["Pour l’cash, on a l’flair et l’odorat"],
+      "i": ["On vend la neige, nous, on va pas au ski "],
+      "o": ["J'étais p'tit sur un vélo", "Maman peut réouvrir ses rideaux", "Gros réseau, gros rouleau"],
+      "an" : ["Se lever pour mille-deux c’est insultant"],
+      "ou" : ["J'pose tout"],
+      "ai" : ["J'peux pas les saquer", "J’suis calibré, j’suis cultivé", "Je n’pense qu’a faire du blé"]
+    },
+    "right": {
+      "a": ["pourtant j’ai glissé que l’doigt", "j’vais pas t’aimer toi "],
+      "i": ["t'es ni mon ami, ni mon ennemi"],
+      "o": ["j'peux gifler les minots", "j’préfère crever riche et solo", "mes amis derrière les barreaux"],
+      "an" : ["personne ne t'aidera ni même Satan"],
+      "ou" : ["quand j'étais dans l'trou"],
+      "ai" : ["j'ai des gens à fumer, j'ai des gens affamés", "c'est Marseille bébé !"]
+    }
   }
 }
