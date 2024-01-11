@@ -6,4 +6,4 @@
 
 ![Preview](https://i.imgur.com/cLyPZ72.png)
 
-Copyright © 2023 - Rémi Martinez
+Copyright © 2024 - Rémi Martinez
